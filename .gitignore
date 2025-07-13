@@ -1,0 +1,19 @@
+# Root node_modules
+/node_modules/
+
+# Frontend node_modules
+/frontend/node_modules/
+
+# Environment variables
+.env
+
+# Hardhat build folders
+/cache/
+/artifacts/
+/typechain/
+/typechain-types/
+/coverage/
+/coverage.json
+
+# Hardhat Ignition deployments
+/ignition/deployments/chain-31337
