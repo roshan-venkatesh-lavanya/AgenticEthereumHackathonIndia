@@ -38,7 +38,7 @@ A blockchain-powered agricultural platform that combines:
 
 ## **📽 Demo**
 
-* 🎥 **Video Link:** [YouTube/Drive Link - Upload your demo video]
+* 🎥 **Video Link:** (https://drive.google.com/file/d/17nUYJPASnMLhf4Z3dxcC_JQFGC7W7BgW/view?usp=sharing)
 * 🖥 **Live App:** http://localhost:3000 (Local development)
 
 
